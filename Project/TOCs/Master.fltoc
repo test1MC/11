@@ -16,9 +16,9 @@
       Title="[%=System.LinkedTitle%]" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/Product A/Article2.htm" />
+      Link="/Content/Products/lll/Article2.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/Product A/Article3.htm" />
+      Link="/Content/Products/lll/Article3.htm" />
   </TocEntry>
 </CatapultToc>
